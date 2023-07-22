@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Hamza 
 
-=====================================================================================================================================  Web developer and ML enthusiast -------------------------------  I have learning web for a couple of years, now i have switched to data science.  * 🌍  I'm based in Kano * ✉️  You can contact me at [mhmahmoud360@gmail.com](mailto:mhmahmoud360@gmail.com) * 🧠  I'm learning ML with python * 🤝  I'm open to collaborating on interesting ML related projects
+=====================================================================================================================================
+Web developer and ML enthusiast
+-------------------------------  
+
+I have learning web for a couple of years, now i have switched to data science.  * 🌍  I'm based in Kano * ✉️  You can contact me at [mhmahmoud360@gmail.com](mailto:mhmahmoud360@gmail.com) * 🧠  I'm learning ML with python * 🤝  I'm open to collaborating on interesting ML related projects
 
 ### Skills  
 
