@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmud Hamzah
 ======================================================================================================================================
 
-I am a Software engineer and ML enthusiat
+I am a Software engineer and ML enthusiast
 ----------------------------------
 
 I have been learning web dev for a couple of years, exploring the world of AI and ML at the moment.
